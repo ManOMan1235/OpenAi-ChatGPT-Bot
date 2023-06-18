@@ -39,7 +39,7 @@ global.PORT = process.env.PORT || '5000' // Port No need Change.
 
 
 mess = {
-	owner: '*This Command is only For Owner.*'
+	owner: '*الامر ده للمالك بطل طمع*'
 }
 
 
